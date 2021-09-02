@@ -1,5 +1,5 @@
 ### Hi there, I'm [Pallav Bhatnagar](https://pallavbhatnagar.in) 👋
-## An Experience Designer, based in India.
+## an Experience Designer, based in India.
 
 For someone with a knack for the rapidly growing & changing social and digital culture, with excellent knowledge of information/content architecture, I conceive and implement innovative UX Design strategies, concepts and guidelines in various creative projects, focused on crafting beautiful and visually appealing experiences. My love for simplicity and design thinking for idea generation is what I think makes my work effective.
 
