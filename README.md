@@ -11,7 +11,7 @@ Right now, I am working under the realm of enterprise products. In the other hal
 <p align = "center">
 
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/bhatnagarpallav/)
-[<img src ="https://img.shields.io/badge/quora-%23B92B27.svg?&style=for-the-badge&logo=quora&logoColor=white%22&color=black">](https://www.quora.com/profile/Pallav-Bhatnagar-1)
+[<img src ="https://img.shields.io/badge/quora-%23B92B27.svg?&style=for-the-badge&logo=quora&logoColor=white">](https://www.quora.com/profile/Pallav-Bhatnagar-1)
 
 </p>
 
