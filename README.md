@@ -10,7 +10,7 @@ Right now, I am working under the realm of enterprise products. In the other hal
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/linkedin-%0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bhatnagarpallav/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bhatnagarpallav/)
 [<img src ="https://img.shields.io/badge/quora-%23B92B27.svg?&style=for-the-badge&logo=quora&logoColor=white">](https://www.quora.com/profile/Pallav-Bhatnagar-1)
 
 </p>
